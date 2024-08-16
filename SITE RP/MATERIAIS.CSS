@@ -1,0 +1,10 @@
+BODY{
+    background-color: white;
+    color: black;
+}
+    
+IMG{
+    width: 150PX;
+    height: 150PX;
+    border: 1px solid black;
+}
